@@ -4,5 +4,5 @@
 
 
 
-![ScreenClip](D:\바탕화면\ReactNativeApp\HW_ReactNative\Front\React_Webpage\ScreenClip.png)
+<img src="./ScreenClip.png">
 
