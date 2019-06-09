@@ -169,7 +169,7 @@ render() {
 
 <hr/>
 
-<img src="./detail_icon.png">
+<img src="./detail_icon.PNG">
 
 날씨 세부 사항에 대한 정보를 표기할 때 쓰는 아이콘들입니다.
 
