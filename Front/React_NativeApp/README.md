@@ -1,4 +1,4 @@
-# Reactive native - whether-crawler-app
+# React native - whether-crawler-app
 
 ### 충남대학교 실전코딩 6조
 
