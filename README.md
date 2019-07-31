@@ -11,8 +11,10 @@ HW02 : React Native, React-Native-Paper, Spring
 ```
 
 <h2>Screen shot</h2>
-<img src='reactnative.png'>
 
+<p align="center">
+<img src='reactnative.png'>
+</p>
 
 
 <img src='react.png'>
