@@ -13,13 +13,13 @@ HW02 : React Native, React-Native-Paper, Spring
 <h2>Screen shot</h2>
 
 <p align="center">
-<img src='reactnative.png'>
+        <img src="reactnative.png">
 </p>
 
 
-<img src='react.png'>
-
-
+<p align="center">
+       <img src="react.png">
+</p>
 
 자세한 것은 각 폴더 내 README 참조
 
